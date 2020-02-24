@@ -1,0 +1,9 @@
+/vendor/
+/logs/*
+.env
+**/.terraform/*
+*.tfstate
+*.tfstate.backup
+*.tfvars
+tags
+
